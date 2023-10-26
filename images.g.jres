@@ -1,0 +1,23 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAEBEREQAAAADx////AQAAEJ+ZmZkfAADxmZmZmfkBEJ+ZmZmZmR8Qn5mZmZmZHxCfmZmZmZkfEJ+ZmZmZmR8Qn5mZmZmZHxCfmZmZmZkfEJ+ZmZmZmR8A8ZmZmZn5AQAQn5mZmR8AAADx////AQAAABAREREAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blue circle"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAEBEREQAAAADx////AQAAEC8iIiIfAADxIiIiIvIBEC8iIiIiIh8QLyIiIiIiHxAvIiIiIiIfEC8iIiIiIh8QLyIiIiIiHxAvIiIiIiIfEC8iIiIiIh8A8SIiIiLyAQAQLyIiIh8AAADx////AQAAABAREREAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "red circle0"
+    },
+    "song1": {
+        "data": "004b000408140108001c000e050046006603320000040a002d00000064001400010a0002000002240004000800011e08000c0001220c001000012414001800011e18001c0001221c0038000124",
+        "mimeType": "application/mkcd-song",
+        "displayName": "ZELDA2",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
